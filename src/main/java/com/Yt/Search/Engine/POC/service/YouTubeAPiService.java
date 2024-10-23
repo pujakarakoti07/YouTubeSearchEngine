@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 @Service
 public class YouTubeAPiService {
-    private final String apiKey = "AIzaSyCK_oXBKaCLHRJ-kccKUE8uVM-JriAolf4";
+    private final String apiKey = "Your API KEY";
     private final String searchUrl = "https://www.googleapis.com/youtube/v3/search";
     private final String videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos";
 
